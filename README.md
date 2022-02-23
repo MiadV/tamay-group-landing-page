@@ -5,6 +5,8 @@
 > this project uses an old version of Bootstrap.
 
 [**Live Website**](https://tamaygroup.com)
+<br/>
+
 ![TAMAY Group Landing Page](/preview.png)
 
 ## Cloning / Forking
